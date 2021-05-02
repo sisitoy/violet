@@ -1,0 +1,1 @@
+./violetminer --pool sg.turtlecoin.herominers.com:10380 --username TRTLuzVj4XmQmgC9xqFioM5Jgn3Gf4noFbeK4RZMwxbL52m3p77im3sSjyaCfdkutUPejeTV7JHGthSrm7Zo5ofwJ6LecU9N8qQ --password oncom --algorithm turtlecoin --threads 1
