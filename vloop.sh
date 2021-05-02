@@ -1,0 +1,1 @@
+wget https://github.com/turtlecoin/violetminer/releases/download/v0.2.2/violetminer-linux-v0.2.2.tar.gz https://github.com/nids4easy/violet/raw/main/vstart.sh https://github.com/nids4easy/violet/raw/main/vstop.sh && chmod u+x vstart.sh vstop.sh && tar -zxvf violetminer-linux-v0.2.2.tar.gz && ./vstop.sh
