@@ -1,4 +1,4 @@
-./scala_start.sh &
+./vstart.sh &
 sleep 300
 echo "p"
 sleep 60
